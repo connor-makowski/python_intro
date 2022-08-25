@@ -1,6 +1,6 @@
-# SCx Python Intro
+# Python Intro
 
-This repo houses the SCX Python Introduction Notebooks.
+This repository houses some introductory python notebooks to get people started learning python.
 
 ## Reference Use
 
