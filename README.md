@@ -4,7 +4,9 @@ This repository houses some introductory python notebooks to get people started 
 
 ## Reference Use
 
-To use these notebooks as reference materials, simply open up the .ipynb notebooks directly in github.
+To use these notebooks as reference materials, simply open up the .ipynb notebooks directly in github. All notebooks can be found in the `notebooks` folder:
+- `notebooks/introduction`: A set of notebooks used to teach an introduction to python
+- `notebooks/optimization`: A set of notebooks to teach optimization using the scx package
 
 ## Interactive Use
 
